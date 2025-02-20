@@ -4,7 +4,10 @@ Developed using linux. Can also be used in Windows.
 
 ## Prerequisites:
 Run the install_dependencies.sh script to install all dependencies. 
-`sudo ./install_dependencies.sh`
+```
+cd install
+sudo ./install_dependencies.sh
+```
 
 ## Encoder Usage:
 1. `./encodeJ2735.py`
