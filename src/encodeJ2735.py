@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-
-## SAE J2735 Encoder
 import J2735_201603_2023_06_22
 import ast
 import subprocess
