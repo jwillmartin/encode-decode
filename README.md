@@ -1,5 +1,5 @@
-These scripts encode and decode SAE J2735 messages in JSON and XML to/from UPER-encoded Hex.
-The encoder accepts either single or double-quotes, seen below with examples. 
+These scripts encode and decode SAE J2735 messages in JSON to/from UPER-encoded Hex.
+The encoder accepts either single or double-quotes, seen below with examples.
 Developed using linux. Can also be used in Windows.
 
 ## Prerequisites:
